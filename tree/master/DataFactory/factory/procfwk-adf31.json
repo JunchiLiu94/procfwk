@@ -1,0 +1,9 @@
+{
+	"name": "procfwk-adf31",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "92fe1796-3168-4782-8a31-68f3666f476c",
+		"tenantId": "02280811-840d-47e5-8a67-deb39194a70a"
+	}
+}
